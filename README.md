@@ -904,7 +904,7 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 
 ---
 
-<details dir="rtl">
+<details>
     <summary> <img src="icons/ar.svg" style="vertical-align: middle; width: 1.2em;"> العربية (Arabic)</summary>
 
 # كيف تبدأ استخدام وكلاء الذكاء الاصطناعي
