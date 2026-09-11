@@ -4,13 +4,13 @@
 ## How to start using AI agents
 </div>
 
-* <img src="icons/en.svg" style="vertical-align: middle; width: 1.2em;"> **English:** This short guide explains what AI agents are and helps you start using them with confidence.
-* <img src="icons/cn.svg" style="vertical-align: middle; width: 1.2em;"> **中文 (Chinese):** 在这篇简短指南中，你将了解什么是 AI 智能体，并轻松开始使用它们！
-* <img src="icons/hi.svg" style="vertical-align: middle; width: 1.2em;"> **हिन्दी (Hindi):** इस छोटी गाइड में आप समझेंगे कि AI एजेंट क्या होते हैं और उन्हें आसानी से इस्तेमाल करना शुरू करेंगे!
-* <img src="icons/es.svg" style="vertical-align: middle; width: 1.2em;"> **Español:** En esta breve guía entenderás qué son los agentes de IA y empezarás a usarlos fácilmente.
-* <img src="icons/fr.svg" style="vertical-align: middle; width: 1.2em;"> **Français:** Dans ce court guide, vous comprendrez ce que sont les agents IA et commencerez facilement à les utiliser.
-* <img src="icons/ar.svg" style="vertical-align: middle; width: 1.2em;"> **العربية (Arabic):** في هذا الدليل القصير ستفهم ما هم وكلاء الذكاء الاصطناعي وتبدأ في استخدامهم بسهولة!
-* <img src="icons/ru.svg" style="vertical-align: middle; width: 1.2em;"> **Русский:** В этой короткой заметке вы поймёте, что такое ИИ-агенты и легко начнёте их использовать!
+* <img src="icons/en.svg" style="vertical-align: middle; width: 1.2em;"> **English:** This beginner-friendly guide explains what AI agents are and helps you start using them with confidence.
+* <img src="icons/cn.svg" style="vertical-align: middle; width: 1.2em;"> **中文 (Chinese):** 在这篇适合新手的指南中，你将了解什么是 AI 智能体，并轻松开始使用它们！
+* <img src="icons/hi.svg" style="vertical-align: middle; width: 1.2em;"> **हिन्दी (Hindi):** इस शुरुआती लोगों के लिए बनी गाइड में आप समझेंगे कि AI एजेंट क्या होते हैं और उन्हें आसानी से इस्तेमाल करना शुरू करेंगे!
+* <img src="icons/es.svg" style="vertical-align: middle; width: 1.2em;"> **Español:** En esta guía para principiantes entenderás qué son los agentes de IA y empezarás a usarlos con confianza.
+* <img src="icons/fr.svg" style="vertical-align: middle; width: 1.2em;"> **Français:** Dans ce guide pour débutants, vous comprendrez ce que sont les agents IA et commencerez à les utiliser avec confiance.
+* <img src="icons/ar.svg" style="vertical-align: middle; width: 1.2em;"> **العربية (Arabic):** في هذا الدليل المناسب للمبتدئين ستفهم ما هم وكلاء الذكاء الاصطناعي وتبدأ في استخدامهم بثقة!
+* <img src="icons/ru.svg" style="vertical-align: middle; width: 1.2em;"> **Русский:** В этом гайде для новичков вы поймёте, что такое ИИ-агенты, и сможете уверенно начать ими пользоваться.
 
 🌐 *Select your language:*
 
