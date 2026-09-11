@@ -4,20 +4,21 @@
 ## How to start using AI agents
 </div>
 
-* <img src="icons/en.svg" style="vertical-align: middle; width: 1.2em;"> **English:** This beginner-friendly guide explains what AI agents are and helps you start using them easily.
-* <img src="icons/cn.svg" style="vertical-align: middle; width: 1.2em;"> **中文 (Chinese):** 在这篇适合新手的指南中，你将了解什么是 AI 智能体，并轻松开始使用它们！
-* <img src="icons/hi.svg" style="vertical-align: middle; width: 1.2em;"> **हिन्दी (Hindi):** इस शुरुआती लोगों के लिए बनी गाइड में आप समझेंगे कि AI एजेंट क्या होते हैं और उन्हें आसानी से इस्तेमाल करना शुरू करेंगे!
-* <img src="icons/es.svg" style="vertical-align: middle; width: 1.2em;"> **Español:** En esta guía para principiantes entenderás qué son los agentes de IA y empezarás a usarlos con confianza.
-* <img src="icons/fr.svg" style="vertical-align: middle; width: 1.2em;"> **Français:** Dans ce guide pour débutants, vous comprendrez ce que sont les agents IA et commencerez à les utiliser avec confiance.
-* <img src="icons/ar.svg" style="vertical-align: middle; width: 1.2em;"> **العربية (Arabic):** في هذا الدليل المناسب للمبتدئين ستفهم ما هم وكلاء الذكاء الاصطناعي وتبدأ في استخدامهم بثقة!
-* <img src="icons/ru.svg" style="vertical-align: middle; width: 1.2em;"> **Русский:** В этом гайде для новичков вы поймёте, что такое ИИ-агенты, и легко начнёте их использовать!
-
 🌐 *Select your language:*
 
-<details>
-    <summary> <img src="icons/en.svg" style="vertical-align: middle; width: 1.2em;"> English</summary>
+- <img src="icons/en.svg" style="vertical-align: middle; width: 1.2em;"> [**English**](#english): This beginner-friendly guide explains what AI agents are and helps you start using them easily.
+- <img src="icons/cn.svg" style="vertical-align: middle; width: 1.2em;"> [**中文 (Chinese)**](#chinese): 在这篇适合新手的指南中，你将了解什么是 AI 智能体，并轻松开始使用它们！
+- <img src="icons/hi.svg" style="vertical-align: middle; width: 1.2em;"> [**हिन्दी (Hindi)**](#hindi): इस शुरुआती लोगों के लिए बनी गाइड में आप समझेंगे कि AI एजेंट क्या होते हैं और उन्हें आसानी से इस्तेमाल करना शुरू करेंगे!
+- <img src="icons/es.svg" style="vertical-align: middle; width: 1.2em;"> [**Español**](#spanish): En esta guía para principiantes entenderás qué son los agentes de IA y empezarás a usarlos con confianza.
+- <img src="icons/fr.svg" style="vertical-align: middle; width: 1.2em;"> [**Français**](#french): Dans ce guide pour débutants, vous comprendrez ce que sont les agents IA et commencerez à les utiliser avec confiance.
+- <img src="icons/ar.svg" style="vertical-align: middle; width: 1.2em;"> [**العربية (Arabic)**](#arabic): في هذا الدليل المناسب للمبتدئين ستفهم ما هم وكلاء الذكاء الاصطناعي وتبدأ في استخدامهم بثقة!
+- <img src="icons/ru.svg" style="vertical-align: middle; width: 1.2em;"> [**Русский**](#russian): В этом гайде для новичков вы поймёте, что такое ИИ-агенты, и легко начнёте их использовать!
 
-# How to start using AI agents
+<a id="english"></a>
+
+# English
+
+## How to start using AI agents
 Imagine that instead of a regular chatbot that only gives text advice, you now have a real digital assistant.  
 It can open websites on its own, create files on your computer, write programs, and handle routine tasks for you.  
 Sounds like science fiction? These tools are already here.  
@@ -37,7 +38,7 @@ To avoid getting lost in the terminology or burning through your balance on the 
 - [**Gemini For Desktop**](https://gemini.google/desktop/)
 - [**Claude Desktop**](https://claude.com/download)
 
-> [!NOTE]  
+> [!NOTE]
 > In practice, these apps can edit documents and do other simple things on your computer.  
 > But they are not suitable for automating programming work.
 
@@ -50,9 +51,9 @@ To avoid getting lost in the terminology or burning through your balance on the 
 | Claude | [**Claude Code**](https://claude.com/product/claude-code) |
 | Gemini | [**Google Antigravity**](https://antigravity.google/) |
 
-> [!NOTE]  
+> [!NOTE]
 > **What can real AI agents do?**  
-Real AI agents can:
+> Real AI agents can:
 > - connect over SSH and run commands on a Linux server
 > - use **Browser Use**: see a browser page and work with it almost like a person — open websites, click buttons, enter text, fill out forms, and search for information
 > - use **Computer Use**: see the computer interface and control applications — open programs and work with windows, files, and settings
@@ -92,7 +93,7 @@ Let’s compare basic paid plans:
 > *Terms and prices are listed as of September 2026.*  
 > *They may differ depending on country, taxes, and payment method.*
 
-> [!CAUTION] 
+> [!CAUTION]
 > **There is also one critically important point:**  
 > An AI agent can still make mistakes or make the wrong decision.  
 > So you will need to monitor the process and check the final result, especially for important or complex tasks.
@@ -122,59 +123,53 @@ In the AI agent chat, ask it to do one of the following tasks to see what it can
 ## About model types and usage limits
 You can skip this section on the first day. It explains why agents use up limits quickly and how not to waste them.
 
-> [!TIP]  
-> This material is a bit more advanced, so we recommend reading it in three days, once you are a little more used to AI agents.
-
 > [!TIP]
+> This material is a bit more advanced, so we recommend reading it in three days, once you are a little more used to AI agents.
 > For now, the model settings we selected above will be enough.
 
-<details>
-<summary>Open this section in three days</summary>
-<br>
-
-One of the first things AI agent users notice is how quickly their daily limit or account balance can run down.  
-Let’s understand why this happens and how to choose models so you do not burn through your whole budget in just a few requests.
-
-### Why do agents use so many tokens?
-
-When you talk to a regular chatbot, you send one question and receive one answer. With AI agents, it works differently:
-
-1. **Autonomous cycles:** To complete one command, the agent performs dozens of behind-the-scenes actions — opens a website, reads code, runs tests, sees an error, tries again, and checks the result.
-2. **Growing project context:** At every step, the agent analyzes the full conversation history and your files. Modern neural networks can cache repeated data, which significantly reduces cost, but with every new action the amount of information being processed still grows. And if the agent keeps changing code or files, the cache updates and resources are consumed again.
-
----
-
-### Choosing a model: from simple tasks to complex ones
-
-In AI agent apps, you will see a choice of models — from lightweight and fast ones to very powerful ones. Different companies use different names, but the general idea is similar: the more powerful the model, the better it handles complex tasks and the faster it uses your limits.
-
-* 🟢 **Lightweight and basic models**
-  * **Use for:** everyday tasks, editing small documents, small code changes, generating recipes, or simple tables.
-  * **Pros:** they are fast, save limits, and cost the least.
-  * **Verdict:** the ideal default choice for 80% of tasks.
-
-* 🔴 **Flagship and research models**
-  * **Use for:** architecture decisions, complex debugging in large codebases, unclear errors, and multi-agent research.
-  * **Pros:** deeper reasoning and very high accuracy in confusing contexts.
-  * **Cons:** they can use up limits much faster.
-
----
-
-### Depth of thinking (Model / Reasoning Effort)
-
-Besides the model itself, agent settings can include **Reasoning / Thinking Effort** — the amount of effort spent on planning the task:
-
-* **Low / Light:** The agent spends almost no time on preliminary thinking and gets to work immediately. Good for simple isolated tasks, such as fixing a typo or renaming a file.
-* **Medium:** The best balance for most everyday tasks.
-* **High / Extra High / Max:** The agent thinks longer before the first action. The answer and plan may be better, but limits will be used up faster. Use this only when the task is truly complex or the cost of a mistake is high.
-
-> [!NOTE]  
+> [!IMPORTANT]
+> ### Read this section in three days
+>
+> One of the first things AI agent users notice is how quickly their daily limit or account balance can run down.  
+> Let’s understand why this happens and how to choose models so you do not burn through your whole budget in just a few requests.
+>
+> ### Why do agents use so many tokens?
+>
+> When you talk to a regular chatbot, you send one question and receive one answer. With AI agents, it works differently:
+>
+> 1. **Autonomous cycles:** To complete one command, the agent performs dozens of behind-the-scenes actions — opens a website, reads code, runs tests, sees an error, tries again, and checks the result.
+> 2. **Growing project context:** At every step, the agent analyzes the full conversation history and your files. Modern neural networks can cache repeated data, which significantly reduces cost, but with every new action the amount of information being processed still grows. And if the agent keeps changing code or files, the cache updates and resources are consumed again.
+>
+> ---
+>
+> ### Choosing a model: from simple tasks to complex ones
+>
+> In AI agent apps, you will see a choice of models — from lightweight and fast ones to very powerful ones. Different companies use different names, but the general idea is similar: the more powerful the model, the better it handles complex tasks and the faster it uses your limits.
+>
+> * 🟢 **Lightweight and basic models**
+>   * **Use for:** everyday tasks, editing small documents, small code changes, generating recipes, or simple tables.
+>   * **Pros:** they are fast, save limits, and cost the least.
+>   * **Verdict:** the ideal default choice for 80% of tasks.
+>
+> * 🔴 **Flagship and research models**
+>   * **Use for:** architecture decisions, complex debugging in large codebases, unclear errors, and multi-agent research.
+>   * **Pros:** deeper reasoning and very high accuracy in confusing contexts.
+>   * **Cons:** they can use up limits much faster.
+>
+> ---
+>
+> ### Depth of thinking (Model / Reasoning Effort)
+>
+> Besides the model itself, agent settings can include **Reasoning / Thinking Effort** — the amount of effort spent on planning the task:
+>
+> * **Low / Light:** The agent spends almost no time on preliminary thinking and gets to work immediately. Good for simple isolated tasks, such as fixing a typo or renaming a file.
+> * **Medium:** The best balance for most everyday tasks.
+> * **High / Extra High / Max:** The agent thinks longer before the first action. The answer and plan may be better, but limits will be used up faster. Use this only when the task is truly complex or the cost of a mistake is high.
+>
 > **Golden rule:**  
 > Always start with a basic model and medium reasoning effort.  
 > Switch to maximum power only if the agent gets stuck or the task requires deep analysis.
-
-</details>
-
+>
 ## Summary
 Real AI agents are not just another chatbot update; they are a fundamentally new class of tools.  
 By moving from simple text to real actions in your system, they can take over many things that used to require hours of manual work.  
@@ -182,20 +177,28 @@ Yes, they require a paid subscription and still cannot fully replace human super
 But the amount of time they can already save may easily justify both the cost and the time spent checking the result.  
 Give an agent its first everyday task, and you will understand the main advantage of AI agents: they save time.
 
-> [!TIP]  
+> [!TIP]
 > *P.S. About our project:*  
 > Although this guide was written as part of our VPN development project, do not rush into complex tasks on the first day of working with AI agents.  
 > We recommend spending the next month learning agents through simple and safe everyday tasks, gradually raising the difficulty.  
 > This way, you will build a clear mental model of how agents work, and future VPN development will be much easier, more efficient, and more interesting!
 
-</details>
 
 ---
 
-<details>
-    <summary> <img src="icons/cn.svg" style="vertical-align: middle; width: 1.2em;"> 中文 (Chinese)</summary>
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
 
-# 如何开始使用 AI 智能体
+**█  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █**
+
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
+
+---
+
+<a id="chinese"></a>
+
+# 中文
+
+## 如何开始使用 AI 智能体
 想象一下，你拥有的不再是只能给出文字建议的普通聊天机器人，而是一位真正的数字实习生。  
 它可以自己打开网站，在你的电脑上创建文件，编写程序，并替你完成许多重复性的工作。  
 听起来像科幻吗？其实这些工具已经出现了。  
@@ -215,7 +218,7 @@ Give an agent its first everyday task, and you will understand the main advantag
 - [**Gemini For Desktop**](https://gemini.google/desktop/)
 - [**Claude Desktop**](https://claude.com/download)
 
-> [!NOTE]  
+> [!NOTE]
 > 实际上，这些应用可以编辑文档，并在电脑上完成一些简单操作。  
 > 但它们并不适合自动化编程。
 
@@ -228,9 +231,9 @@ Give an agent its first everyday task, and you will understand the main advantag
 | Claude | [**Claude Code**](https://claude.com/product/claude-code) |
 | Gemini | [**Google Antigravity**](https://antigravity.google/) |
 
-> [!NOTE]  
+> [!NOTE]
 > **真正的 AI 智能体能做什么？**  
-真正的 AI 智能体可以：
+> 真正的 AI 智能体可以：
 > - 通过 SSH 连接并在 Linux 服务器上执行操作
 > - 使用 **Browser Use**：像人一样查看浏览器页面并操作它，例如打开网站、点击按钮、输入文字、填写表单和搜索信息
 > - 使用 **Computer Use**：查看电脑界面并控制应用，例如打开程序、操作窗口、文件和设置
@@ -270,7 +273,7 @@ Give an agent its first everyday task, and you will understand the main advantag
 > *条件和价格截至 2026 年 9 月。*  
 > *它们可能因国家、税费和付款方式而不同。*
 
-> [!CAUTION] 
+> [!CAUTION]
 > **还有一个非常重要的点：**  
 > AI 智能体仍然可能犯错或做出错误决定。  
 > 因此你需要监督过程并检查最终结果，尤其是在重要或复杂任务中。
@@ -300,59 +303,53 @@ Give an agent its first everyday task, and you will understand the main advantag
 ## 关于模型类型和额度消耗
 第一天可以先跳过这一节。它解释为什么智能体会快速消耗额度，以及如何避免浪费。
 
-> [!TIP]  
-> 这部分内容有点难，建议你三天后、稍微习惯 AI 智能体之后再阅读。
-
 > [!TIP]
+> 这部分内容有点难，建议你三天后、稍微习惯 AI 智能体之后再阅读。
 > 一开始，我们上面选择的模型设置就足够用了。
 
-<details>
-<summary>三天后再打开阅读</summary>
-<br>
-
-AI 智能体用户最先注意到的一件事，就是每日额度或账户余额下降得很快。  
-我们来看看为什么会这样，以及如何正确选择模型，避免几个请求就用完预算。
-
-### 为什么智能体会消耗这么多 token？
-
-当你和普通聊天机器人交流时，你发送一个问题，然后收到一个回答。但 AI 智能体的工作方式不同：
-
-1. **自主循环：** 为了完成你的一个命令，智能体会执行许多隐藏步骤：打开网站、阅读代码、运行测试、发现错误、再次尝试并检查结果。
-2. **不断增长的项目上下文：** 每一步中，智能体都会分析完整的对话历史和你的文件。现代神经网络可以缓存重复数据，这能显著降低成本，但每一个新动作仍然会增加需要处理的信息量。如果智能体不断修改代码或文件，缓存也会更新，资源会继续被消耗。
-
----
-
-### 选择模型：从简单任务到复杂任务
-
-在 AI 智能体应用中，你会看到不同模型的选择，从轻量快速的模型到非常强大的模型。不同公司使用不同名称，但原则类似：模型越强，越擅长处理复杂任务，同时也越快消耗额度。
-
-* 🟢 **轻量和基础模型**
-  * **适合：** 日常任务、编辑小文档、小型代码修改、生成食谱或简单表格。
-  * **优点：** 速度快，节省额度，成本最低。
-  * **结论：** 80% 任务的默认理想选择。
-
-* 🔴 **旗舰和研究型模型**
-  * **适合：** 架构设计、大型代码库复杂调试、难以理解的错误、多智能体研究。
-  * **优点：** 推理更深入，在混乱上下文中准确性更高。
-  * **缺点：** 可能明显更快消耗额度。
-
----
-
-### 思考深度（Model / Reasoning Effort）
-
-除了模型本身，智能体设置中还可能有 **Reasoning / Thinking Effort**，也就是规划任务时投入的思考程度：
-
-* **Low / Light（低）：** 智能体几乎不花时间预先思考，直接开始行动。适合简单、独立的任务，比如修正错别字或重命名文件。
-* **Medium（中）：** 大多数日常任务的最佳平衡。
-* **High / Extra High / Max（高）：** 智能体在第一次行动前会思考更久。回答和计划可能更好，但额度消耗也更快。只有在任务真正复杂或错误代价很高时才使用。
-
-> [!NOTE]  
+> [!IMPORTANT]
+> ### 三天后再阅读
+>
+> AI 智能体用户最先注意到的一件事，就是每日额度或账户余额下降得很快。  
+> 我们来看看为什么会这样，以及如何正确选择模型，避免几个请求就用完预算。
+>
+> ### 为什么智能体会消耗这么多 token？
+>
+> 当你和普通聊天机器人交流时，你发送一个问题，然后收到一个回答。但 AI 智能体的工作方式不同：
+>
+> 1. **自主循环：** 为了完成你的一个命令，智能体会执行许多隐藏步骤：打开网站、阅读代码、运行测试、发现错误、再次尝试并检查结果。
+> 2. **不断增长的项目上下文：** 每一步中，智能体都会分析完整的对话历史和你的文件。现代神经网络可以缓存重复数据，这能显著降低成本，但每一个新动作仍然会增加需要处理的信息量。如果智能体不断修改代码或文件，缓存也会更新，资源会继续被消耗。
+>
+> ---
+>
+> ### 选择模型：从简单任务到复杂任务
+>
+> 在 AI 智能体应用中，你会看到不同模型的选择，从轻量快速的模型到非常强大的模型。不同公司使用不同名称，但原则类似：模型越强，越擅长处理复杂任务，同时也越快消耗额度。
+>
+> * 🟢 **轻量和基础模型**
+>   * **适合：** 日常任务、编辑小文档、小型代码修改、生成食谱或简单表格。
+>   * **优点：** 速度快，节省额度，成本最低。
+>   * **结论：** 80% 任务的默认理想选择。
+>
+> * 🔴 **旗舰和研究型模型**
+>   * **适合：** 架构设计、大型代码库复杂调试、难以理解的错误、多智能体研究。
+>   * **优点：** 推理更深入，在混乱上下文中准确性更高。
+>   * **缺点：** 可能明显更快消耗额度。
+>
+> ---
+>
+> ### 思考深度（Model / Reasoning Effort）
+>
+> 除了模型本身，智能体设置中还可能有 **Reasoning / Thinking Effort**，也就是规划任务时投入的思考程度：
+>
+> * **Low / Light（低）：** 智能体几乎不花时间预先思考，直接开始行动。适合简单、独立的任务，比如修正错别字或重命名文件。
+> * **Medium（中）：** 大多数日常任务的最佳平衡。
+> * **High / Extra High / Max（高）：** 智能体在第一次行动前会思考更久。回答和计划可能更好，但额度消耗也更快。只有在任务真正复杂或错误代价很高时才使用。
+>
 > **黄金规则：**  
 > 总是从基础模型和中等思考深度开始。  
 > 只有当智能体卡住，或任务需要深入分析时，再切换到最高能力。
-
-</details>
-
+>
 ## 总结
 真正的 AI 智能体不只是聊天机器人的又一次更新，而是一类全新的工具。  
 它们从简单文字走向你系统中的真实操作，接手许多过去需要数小时手动完成的工作。  
@@ -360,20 +357,28 @@ AI 智能体用户最先注意到的一件事，就是每日额度或账户余�
 但它们现在就能带来的日常效率提升，已经足以抵消成本和检查结果所需的时间。  
 给智能体第一个日常任务，你就会理解 AI 智能体最重要的优势：节省时间。
 
-> [!TIP]  
+> [!TIP]
 > *P.S. 关于我们的项目：*  
 > 虽然这份指南是在我们的 VPN 开发项目中编写的，但不要在第一天就急着处理复杂任务。  
 > 我们建议你接下来一个月先用简单、安全的日常任务来熟悉智能体，再逐步提高难度。  
 > 这样你会建立清晰的智能体工作模型，之后进行 VPN 开发也会更简单、更高效、更有趣！
 
-</details>
 
 ---
 
-<details>
-    <summary> <img src="icons/hi.svg" style="vertical-align: middle; width: 1.2em;"> हिन्दी (Hindi)</summary>
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
 
-# AI एजेंट इस्तेमाल करना कैसे शुरू करें
+**█  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █**
+
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
+
+---
+
+<a id="hindi"></a>
+
+# हिन्दी
+
+## AI एजेंट इस्तेमाल करना कैसे शुरू करें
 कल्पना कीजिए कि आपके पास एक सामान्य चैटबॉट नहीं है, जो सिर्फ टेक्स्ट सलाह देता है, बल्कि एक असली डिजिटल इंटर्न है।  
 वह खुद वेबसाइट खोल सकता है, आपके कंप्यूटर पर फाइलें बना सकता है, प्रोग्राम लिख सकता है और आपके लिए दोहराए जाने वाले काम कर सकता है।  
 क्या यह साइंस फिक्शन जैसा लगता है? असल में ये टूल अब मौजूद हैं।  
@@ -393,7 +398,7 @@ AI 智能体用户最先注意到的一件事，就是每日额度或账户余�
 - [**Gemini For Desktop**](https://gemini.google/desktop/)
 - [**Claude Desktop**](https://claude.com/download)
 
-> [!NOTE]  
+> [!NOTE]
 > ये ऐप दस्तावेज़ संपादित कर सकते हैं और कंप्यूटर पर कुछ सरल काम कर सकते हैं।  
 > लेकिन ये प्रोग्रामिंग ऑटोमेशन के लिए उपयुक्त नहीं हैं।
 
@@ -406,9 +411,9 @@ AI 智能体用户最先注意到的一件事，就是每日额度或账户余�
 | Claude | [**Claude Code**](https://claude.com/product/claude-code) |
 | Gemini | [**Google Antigravity**](https://antigravity.google/) |
 
-> [!NOTE]  
+> [!NOTE]
 > **असली AI एजेंट क्या कर सकते हैं?**  
-असली AI एजेंट कर सकते हैं:
+> असली AI एजेंट कर सकते हैं:
 > - SSH के माध्यम से कनेक्ट होकर Linux सर्वर पर काम करना
 > - **Browser Use** इस्तेमाल करना: ब्राउज़र पेज को देखना और लगभग इंसान की तरह काम करना — वेबसाइट खोलना, बटन दबाना, टेक्स्ट दर्ज करना, फॉर्म भरना और जानकारी खोजना
 > - **Computer Use** इस्तेमाल करना: कंप्यूटर इंटरफेस देखना और ऐप्स नियंत्रित करना — प्रोग्राम खोलना, विंडो, फाइलों और सेटिंग्स के साथ काम करना
@@ -448,7 +453,7 @@ AI 智能体用户最先注意到的一件事，就是每日额度或账户余�
 > *शर्तें और कीमतें सितंबर 2026 के अनुसार हैं।*  
 > *देश, कर और भुगतान के तरीके के आधार पर ये अलग हो सकती हैं।*
 
-> [!CAUTION] 
+> [!CAUTION]
 > **एक और बहुत महत्वपूर्ण बात:**  
 > AI एजेंट फिर भी गलतियाँ कर सकता है या गलत निर्णय ले सकता है।  
 > इसलिए आपको प्रक्रिया पर नज़र रखनी होगी और अंतिम परिणाम जांचना होगा, खासकर महत्वपूर्ण या जटिल कार्यों में।
@@ -478,59 +483,53 @@ AI एजेंट की चैट में उससे इनमें स�
 ## मॉडल के प्रकार और लिमिट खर्च
 पहले दिन यह हिस्सा छोड़ सकते हैं। इसमें बताया गया है कि एजेंट लिमिट जल्दी क्यों खर्च करते हैं और उन्हें बेकार खर्च होने से कैसे बचाएँ।
 
-> [!TIP]  
-> यह थोड़ा कठिन भाग है, इसलिए इसे तीन दिन बाद पढ़ना बेहतर होगा, जब आप AI एजेंटों के थोड़े अभ्यस्त हो जाएँ।
-
 > [!TIP]
+> यह थोड़ा कठिन भाग है, इसलिए इसे तीन दिन बाद पढ़ना बेहतर होगा, जब आप AI एजेंटों के थोड़े अभ्यस्त हो जाएँ।
 > शुरुआत में हमने जो मॉडल सेटिंग्स चुनी हैं, वे आपके लिए काफी होंगी।
 
-<details>
-<summary>तीन दिन बाद पढ़ने के लिए खोलें</summary>
-<br>
-
-AI एजेंट इस्तेमाल करने वाले लोग सबसे पहले यह देखते हैं कि दैनिक लिमिट या अकाउंट बैलेंस कितनी जल्दी घटता है।  
-आइए समझते हैं कि ऐसा क्यों होता है और मॉडल कैसे चुनें ताकि कुछ अनुरोधों में पूरा बजट खर्च न हो जाए।
-
-### एजेंट इतने टोकन क्यों खर्च करते हैं?
-
-जब आप सामान्य चैटबॉट से बात करते हैं, तो आप एक सवाल भेजते हैं और एक जवाब पाते हैं। AI एजेंटों के साथ तरीका अलग है:
-
-1. **स्वायत्त चक्र:** आपके एक निर्देश को पूरा करने के लिए एजेंट कई छिपे हुए काम करता है — वेबसाइट खोलता है, कोड पढ़ता है, टेस्ट चलाता है, गलती देखता है, फिर कोशिश करता है और परिणाम जांचता है।
-2. **बढ़ता हुआ प्रोजेक्ट संदर्भ:** हर कदम पर एजेंट पूरी बातचीत का इतिहास और आपकी फाइलें विश्लेषित करता है। आधुनिक न्यूरल नेटवर्क दोहराए गए डेटा को कैश कर सकते हैं, जिससे लागत काफी कम होती है, लेकिन हर नई कार्रवाई के साथ भेजी जाने वाली जानकारी बढ़ती रहती है। अगर एजेंट लगातार कोड या फाइलें बदलता है, तो कैश भी अपडेट होता है और संसाधन फिर खर्च होते हैं।
-
----
-
-### मॉडल चुनना: सरल कामों से जटिल कामों तक
-
-AI एजेंट ऐप्स में आपको हल्के और तेज मॉडल से लेकर बहुत शक्तिशाली मॉडल तक विकल्प मिलेंगे। अलग-अलग कंपनियाँ अलग नाम इस्तेमाल करती हैं, लेकिन सिद्धांत समान है: मॉडल जितना शक्तिशाली होगा, वह जटिल कार्यों में उतना बेहतर होगा और लिमिट उतनी जल्दी खर्च करेगा।
-
-* 🟢 **हल्के और बेसिक मॉडल**
-  * **किसके लिए:** रोज़मर्रा के काम, छोटे दस्तावेज़ संपादित करना, छोटे कोड बदलाव, रेसिपी या सरल तालिकाएँ बनाना।
-  * **फायदे:** तेज काम करते हैं, लिमिट बचाते हैं और सबसे सस्ते होते हैं।
-  * **निष्कर्ष:** 80% कार्यों के लिए आदर्श डिफॉल्ट विकल्प।
-
-* 🔴 **फ्लैगशिप और रिसर्च मॉडल**
-  * **किसके लिए:** आर्किटेक्चर निर्णय, बड़े कोड की जटिल डीबगिंग, अस्पष्ट त्रुटियाँ, मल्टी-एजेंट रिसर्च।
-  * **फायदे:** गहरी reasoning और उलझे हुए संदर्भ में अधिक सटीकता।
-  * **नुकसान:** लिमिट को काफ़ी तेज़ी से खर्च कर सकते हैं।
-
----
-
-### सोच की गहराई (Model / Reasoning Effort)
-
-मॉडल के अलावा, एजेंट सेटिंग्स में **Reasoning / Thinking Effort** भी हो सकता है — यानी कार्य की योजना बनाते समय एजेंट कितनी मेहनत से सोचता है:
-
-* **Low / Light (कम):** एजेंट पहले से लगभग नहीं सोचता और तुरंत काम शुरू करता है। सरल अलग-अलग कामों के लिए अच्छा है, जैसे टाइपो सुधारना या फाइल का नाम बदलना।
-* **Medium (मध्यम):** अधिकांश रोज़मर्रा के कामों के लिए सबसे अच्छा संतुलन।
-* **High / Extra High / Max (उच्च):** एजेंट पहली कार्रवाई से पहले ज़्यादा देर तक सोचता है। जवाब और योजना बेहतर हो सकते हैं, लेकिन लिमिट तेज़ी से खर्च होगी। इसे केवल तब इस्तेमाल करें जब कार्य सच में जटिल हो या गलती की कीमत बहुत अधिक हो।
-
-> [!NOTE]  
+> [!IMPORTANT]
+> ### इसे तीन दिन बाद पढ़ें
+>
+> AI एजेंट इस्तेमाल करने वाले लोग सबसे पहले यह देखते हैं कि दैनिक लिमिट या अकाउंट बैलेंस कितनी जल्दी घटता है।  
+> आइए समझते हैं कि ऐसा क्यों होता है और मॉडल कैसे चुनें ताकि कुछ अनुरोधों में पूरा बजट खर्च न हो जाए।
+>
+> ### एजेंट इतने टोकन क्यों खर्च करते हैं?
+>
+> जब आप सामान्य चैटबॉट से बात करते हैं, तो आप एक सवाल भेजते हैं और एक जवाब पाते हैं। AI एजेंटों के साथ तरीका अलग है:
+>
+> 1. **स्वायत्त चक्र:** आपके एक निर्देश को पूरा करने के लिए एजेंट कई छिपे हुए काम करता है — वेबसाइट खोलता है, कोड पढ़ता है, टेस्ट चलाता है, गलती देखता है, फिर कोशिश करता है और परिणाम जांचता है।
+> 2. **बढ़ता हुआ प्रोजेक्ट संदर्भ:** हर कदम पर एजेंट पूरी बातचीत का इतिहास और आपकी फाइलें विश्लेषित करता है। आधुनिक न्यूरल नेटवर्क दोहराए गए डेटा को कैश कर सकते हैं, जिससे लागत काफी कम होती है, लेकिन हर नई कार्रवाई के साथ भेजी जाने वाली जानकारी बढ़ती रहती है। अगर एजेंट लगातार कोड या फाइलें बदलता है, तो कैश भी अपडेट होता है और संसाधन फिर खर्च होते हैं।
+>
+> ---
+>
+> ### मॉडल चुनना: सरल कामों से जटिल कामों तक
+>
+> AI एजेंट ऐप्स में आपको हल्के और तेज मॉडल से लेकर बहुत शक्तिशाली मॉडल तक विकल्प मिलेंगे। अलग-अलग कंपनियाँ अलग नाम इस्तेमाल करती हैं, लेकिन सिद्धांत समान है: मॉडल जितना शक्तिशाली होगा, वह जटिल कार्यों में उतना बेहतर होगा और लिमिट उतनी जल्दी खर्च करेगा।
+>
+> * 🟢 **हल्के और बेसिक मॉडल**
+>   * **किसके लिए:** रोज़मर्रा के काम, छोटे दस्तावेज़ संपादित करना, छोटे कोड बदलाव, रेसिपी या सरल तालिकाएँ बनाना।
+>   * **फायदे:** तेज काम करते हैं, लिमिट बचाते हैं और सबसे सस्ते होते हैं।
+>   * **निष्कर्ष:** 80% कार्यों के लिए आदर्श डिफॉल्ट विकल्प।
+>
+> * 🔴 **फ्लैगशिप और रिसर्च मॉडल**
+>   * **किसके लिए:** आर्किटेक्चर निर्णय, बड़े कोड की जटिल डीबगिंग, अस्पष्ट त्रुटियाँ, मल्टी-एजेंट रिसर्च।
+>   * **फायदे:** गहरी reasoning और उलझे हुए संदर्भ में अधिक सटीकता।
+>   * **नुकसान:** लिमिट को काफ़ी तेज़ी से खर्च कर सकते हैं।
+>
+> ---
+>
+> ### सोच की गहराई (Model / Reasoning Effort)
+>
+> मॉडल के अलावा, एजेंट सेटिंग्स में **Reasoning / Thinking Effort** भी हो सकता है — यानी कार्य की योजना बनाते समय एजेंट कितनी मेहनत से सोचता है:
+>
+> * **Low / Light (कम):** एजेंट पहले से लगभग नहीं सोचता और तुरंत काम शुरू करता है। सरल अलग-अलग कामों के लिए अच्छा है, जैसे टाइपो सुधारना या फाइल का नाम बदलना।
+> * **Medium (मध्यम):** अधिकांश रोज़मर्रा के कामों के लिए सबसे अच्छा संतुलन।
+> * **High / Extra High / Max (उच्च):** एजेंट पहली कार्रवाई से पहले ज़्यादा देर तक सोचता है। जवाब और योजना बेहतर हो सकते हैं, लेकिन लिमिट तेज़ी से खर्च होगी। इसे केवल तब इस्तेमाल करें जब कार्य सच में जटिल हो या गलती की कीमत बहुत अधिक हो।
+>
 > **सुनहरा नियम:**  
 > हमेशा बेसिक मॉडल और मध्यम reasoning effort से शुरू करें।  
 > अधिकतम शक्ति पर तभी जाएँ जब एजेंट अटक जाए या कार्य को गहरे विश्लेषण की ज़रूरत हो।
-
-</details>
-
+>
 ## निष्कर्ष
 असली AI एजेंट चैटबॉट का सिर्फ एक और अपडेट नहीं हैं, बल्कि उपकरणों की एक बिल्कुल नई श्रेणी हैं।  
 वे सरल टेक्स्ट से आगे बढ़कर आपके सिस्टम में वास्तविक क्रियाएँ करते हैं और उन कामों को संभालते हैं जिनमें पहले घंटों की मैनुअल मेहनत लगती थी।  
@@ -538,20 +537,28 @@ AI एजेंट ऐप्स में आपको हल्के और �
 लेकिन वे अभी भी routine कामों से जो आज़ादी देते हैं, वह लागत और परिणाम जाँचने में लगे समय को उचित ठहरा सकती है।  
 एजेंट को पहला रोज़मर्रा का काम दें, और आप AI एजेंटों का मुख्य लाभ समझ जाएँगे: समय की बचत।
 
-> [!TIP]  
+> [!TIP]
 > *P.S. हमारे प्रोजेक्ट के बारे में:*  
 > हालांकि यह गाइड हमारे VPN विकास प्रोजेक्ट के हिस्से के रूप में बनाई गई है, AI एजेंटों से परिचय के पहले ही दिन जटिल कार्यों में जल्दबाज़ी न करें।  
 > हम सलाह देते हैं कि अगले महीने एजेंटों को सरल और सुरक्षित रोज़मर्रा के कामों पर सीखें, फिर धीरे-धीरे कठिनाई बढ़ाएँ।  
 > इस तरह आप एजेंटों के काम करने का साफ मानसिक मॉडल बनाएँगे, और आगे VPN विकास बहुत आसान, प्रभावी और रोचक होगा!
 
-</details>
 
 ---
 
-<details>
-    <summary> <img src="icons/es.svg" style="vertical-align: middle; width: 1.2em;"> Español (Spanish)</summary>
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
 
-# Cómo empezar a usar agentes de IA
+**█  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █**
+
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
+
+---
+
+<a id="spanish"></a>
+
+# Español
+
+## Cómo empezar a usar agentes de IA
 Imagina que, en lugar de un chatbot normal que solo da consejos por texto, tienes un verdadero asistente digital.  
 Puede abrir sitios web por su cuenta, crear archivos en tu computadora, escribir programas y hacer por ti mucho trabajo rutinario.  
 ¿Suena a ciencia ficción? En realidad, estas herramientas ya existen.  
@@ -571,7 +578,7 @@ Para no confundirte con los términos ni gastar todo tu saldo el primer día, ve
 - [**Gemini For Desktop**](https://gemini.google/desktop/)
 - [**Claude Desktop**](https://claude.com/download)
 
-> [!NOTE]  
+> [!NOTE]
 > En la práctica, estas aplicaciones pueden editar documentos y hacer algunas tareas simples en tu computadora.  
 > Pero no sirven para automatizar programación.
 
@@ -584,7 +591,7 @@ Para no confundirte con los términos ni gastar todo tu saldo el primer día, ve
 | Claude | [**Claude Code**](https://claude.com/product/claude-code) |
 | Gemini | [**Google Antigravity**](https://antigravity.google/) |
 
-> [!NOTE]  
+> [!NOTE]
 > **¿Qué pueden hacer los verdaderos agentes de IA?**  
 Los verdaderos agentes de IA pueden:
 > - conectarse por SSH y ejecutar acciones en un servidor Linux
@@ -626,7 +633,7 @@ Comparemos planes iniciales razonables:
 > *Condiciones y precios indicados para septiembre de 2026.*  
 > *Pueden variar según el país, los impuestos y el método de pago.*
 
-> [!CAUTION] 
+> [!CAUTION]
 > **También hay un punto críticamente importante:**  
 > Un agente de IA aún puede cometer errores o tomar decisiones equivocadas.  
 > Por eso tendrás que supervisar el proceso y revisar el resultado final, especialmente en tareas importantes o complejas.
@@ -656,59 +663,53 @@ Desde el chat del agente, pídele que haga una de estas tareas para sentir su al
 ## Sobre tipos de modelos y consumo de límites
 Puedes saltarte esta sección el primer día. Explica por qué los agentes consumen límites rápidamente y cómo no desperdiciarlos.
 
-> [!TIP]  
-> Es un material algo difícil; recomendamos leerlo dentro de tres días, cuando ya te hayas acostumbrado un poco a los agentes de IA.
-
 > [!TIP]
+> Es un material algo difícil; recomendamos leerlo dentro de tres días, cuando ya te hayas acostumbrado un poco a los agentes de IA.
 > Al principio, te bastará con la configuración de modelo que elegimos.
 
-<details>
-<summary>Ábrelo para leerlo dentro de tres días</summary>
-<br>
-
-Una de las primeras cosas que notan los usuarios de agentes de IA es lo rápido que se agota el límite diario o el saldo de la cuenta.  
-Veamos por qué ocurre y cómo elegir modelos correctamente para no gastar todo el presupuesto en un par de solicitudes.
-
-### ¿Por qué los agentes consumen tantos tokens?
-
-Cuando hablas con un chatbot normal, envías una pregunta y recibes una respuesta. Con los agentes de IA funciona distinto:
-
-1. **Ciclos autónomos:** Para completar una orden, el agente hace decenas de acciones ocultas: abre un sitio, lee código, ejecuta pruebas, ve un error, vuelve a intentarlo y revisa el resultado.
-2. **Contexto de proyecto creciente:** En cada paso, el agente analiza toda la historia del diálogo y tus archivos. Las redes neuronales modernas pueden cachear datos repetidos, lo que reduce bastante el coste, pero con cada nueva acción sigue creciendo la cantidad de información procesada. Si el agente cambia código o archivos constantemente, la caché se actualiza y los recursos vuelven a consumirse.
-
----
-
-### Elegir un modelo: de tareas simples a tareas complejas
-
-En las aplicaciones de agentes de IA verás modelos desde ligeros y rápidos hasta muy potentes. Cada empresa usa nombres distintos, pero el principio general es parecido: cuanto más potente es el modelo, mejor resuelve tareas complejas y más rápido consume límites.
-
-* 🟢 **Modelos ligeros y básicos**
-  * **Para qué sirven:** tareas cotidianas, edición de documentos pequeños, cambios pequeños de código, generación de recetas o tablas simples.
-  * **Ventajas:** son rápidos, ahorran límites y cuestan menos.
-  * **Veredicto:** la opción ideal por defecto para el 80% de las tareas.
-
-* 🔴 **Modelos insignia y de investigación**
-  * **Para qué sirven:** decisiones de arquitectura, depuración compleja de código grande, errores confusos, investigaciones con varios agentes.
-  * **Ventajas:** razonamiento más profundo y mayor precisión en contextos difíciles.
-  * **Desventajas:** pueden consumir límites mucho más rápido.
-
----
-
-### Profundidad de razonamiento (Model / Reasoning Effort)
-
-Además del modelo, en los ajustes del agente puede haber **Reasoning / Thinking Effort**, es decir, cuánto esfuerzo dedica a planificar la tarea:
-
-* **Low / Light (bajo):** El agente casi no dedica tiempo a pensar antes y empieza de inmediato. Sirve para tareas simples y aisladas, como corregir una errata o renombrar un archivo.
-* **Medium (medio):** El mejor equilibrio para la mayoría de tareas cotidianas.
-* **High / Extra High / Max (alto):** El agente piensa más antes de la primera acción. La respuesta y el plan pueden ser mejores, pero los límites se gastarán más rápido. Úsalo solo cuando la tarea sea realmente compleja o el coste de un error sea alto.
-
-> [!NOTE]  
+> [!IMPORTANT]
+> ### Lee esta sección dentro de tres días
+>
+> Una de las primeras cosas que notan los usuarios de agentes de IA es lo rápido que se agota el límite diario o el saldo de la cuenta.  
+> Veamos por qué ocurre y cómo elegir modelos correctamente para no gastar todo el presupuesto en un par de solicitudes.
+>
+> ### ¿Por qué los agentes consumen tantos tokens?
+>
+> Cuando hablas con un chatbot normal, envías una pregunta y recibes una respuesta. Con los agentes de IA funciona distinto:
+>
+> 1. **Ciclos autónomos:** Para completar una orden, el agente hace decenas de acciones ocultas: abre un sitio, lee código, ejecuta pruebas, ve un error, vuelve a intentarlo y revisa el resultado.
+> 2. **Contexto de proyecto creciente:** En cada paso, el agente analiza toda la historia del diálogo y tus archivos. Las redes neuronales modernas pueden cachear datos repetidos, lo que reduce bastante el coste, pero con cada nueva acción sigue creciendo la cantidad de información procesada. Si el agente cambia código o archivos constantemente, la caché se actualiza y los recursos vuelven a consumirse.
+>
+> ---
+>
+> ### Elegir un modelo: de tareas simples a tareas complejas
+>
+> En las aplicaciones de agentes de IA verás modelos desde ligeros y rápidos hasta muy potentes. Cada empresa usa nombres distintos, pero el principio general es parecido: cuanto más potente es el modelo, mejor resuelve tareas complejas y más rápido consume límites.
+>
+> * 🟢 **Modelos ligeros y básicos**
+>   * **Para qué sirven:** tareas cotidianas, edición de documentos pequeños, cambios pequeños de código, generación de recetas o tablas simples.
+>   * **Ventajas:** son rápidos, ahorran límites y cuestan menos.
+>   * **Veredicto:** la opción ideal por defecto para el 80% de las tareas.
+>
+> * 🔴 **Modelos insignia y de investigación**
+>   * **Para qué sirven:** decisiones de arquitectura, depuración compleja de código grande, errores confusos, investigaciones con varios agentes.
+>   * **Ventajas:** razonamiento más profundo y mayor precisión en contextos difíciles.
+>   * **Desventajas:** pueden consumir límites mucho más rápido.
+>
+> ---
+>
+> ### Profundidad de razonamiento (Model / Reasoning Effort)
+>
+> Además del modelo, en los ajustes del agente puede haber **Reasoning / Thinking Effort**, es decir, cuánto esfuerzo dedica a planificar la tarea:
+>
+> * **Low / Light (bajo):** El agente casi no dedica tiempo a pensar antes y empieza de inmediato. Sirve para tareas simples y aisladas, como corregir una errata o renombrar un archivo.
+> * **Medium (medio):** El mejor equilibrio para la mayoría de tareas cotidianas.
+> * **High / Extra High / Max (alto):** El agente piensa más antes de la primera acción. La respuesta y el plan pueden ser mejores, pero los límites se gastarán más rápido. Úsalo solo cuando la tarea sea realmente compleja o el coste de un error sea alto.
+>
 > **Regla de oro:**  
 > Empieza siempre con un modelo básico y razonamiento medio.  
 > Cambia a máxima potencia solo si el agente se atasca o la tarea requiere análisis profundo.
-
-</details>
-
+>
 ## Resumen
 Los verdaderos agentes de IA no son solo otra actualización de los chatbots, sino una clase nueva de herramientas.  
 Al pasar del texto simple a acciones reales en tu sistema, asumen muchas tareas que antes requerían horas de trabajo manual.  
@@ -716,20 +717,28 @@ Sí, requieren una suscripción de pago y todavía no pueden sustituir por compl
 Pero la libertad frente a la rutina que ya ofrecen puede compensar tanto el coste como el tiempo de revisión.  
 Dale al agente una primera tarea cotidiana y entenderás la ventaja principal de los agentes de IA: ahorrar tiempo.
 
-> [!TIP]  
+> [!TIP]
 > *P.D. Sobre nuestro proyecto:*  
 > Aunque esta guía se preparó como parte de nuestro proyecto de desarrollo VPN, no te apresures a tomar tareas complejas el primer día con agentes de IA.  
 > Recomendamos dedicar el próximo mes a aprender con tareas cotidianas simples y seguras, aumentando gradualmente la dificultad.  
 > Así construirás un modelo mental claro de cómo funcionan los agentes, y el desarrollo VPN posterior será mucho más fácil, eficaz e interesante.
 
-</details>
 
 ---
 
-<details>
-    <summary> <img src="icons/fr.svg" style="vertical-align: middle; width: 1.2em;"> Français (French)</summary>
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
 
-# Comment commencer à utiliser les agents IA
+**█  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █**
+
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
+
+---
+
+<a id="french"></a>
+
+# Français
+
+## Comment commencer à utiliser les agents IA
 Imaginez qu’au lieu d’un chatbot classique qui ne donne que des conseils sous forme de texte, vous ayez un véritable stagiaire numérique.  
 Il peut ouvrir des sites web tout seul, créer des fichiers sur votre ordinateur, écrire des programmes et effectuer pour vous de nombreuses tâches répétitives.  
 Cela ressemble à de la science-fiction ? En réalité, ces outils existent déjà.  
@@ -749,7 +758,7 @@ Pour ne pas vous perdre dans les termes et ne pas épuiser votre solde dès le p
 - [**Gemini For Desktop**](https://gemini.google/desktop/)
 - [**Claude Desktop**](https://claude.com/download)
 
-> [!NOTE]  
+> [!NOTE]
 > En pratique, ces applications peuvent modifier des documents et faire quelques actions simples sur votre ordinateur.  
 > Mais elles ne conviennent pas à l’automatisation de la programmation.
 
@@ -762,9 +771,9 @@ Pour ne pas vous perdre dans les termes et ne pas épuiser votre solde dès le p
 | Claude | [**Claude Code**](https://claude.com/product/claude-code) |
 | Gemini | [**Google Antigravity**](https://antigravity.google/) |
 
-> [!NOTE]  
+> [!NOTE]
 > **Que peuvent faire les véritables agents IA ?**  
-Les véritables agents IA peuvent :
+> Les véritables agents IA peuvent :
 > - se connecter en SSH et effectuer des actions sur un serveur Linux
 > - utiliser **Browser Use** : voir une page dans le navigateur et travailler avec elle presque comme une personne — ouvrir des sites, cliquer sur des boutons, saisir du texte, remplir des formulaires et chercher des informations
 > - utiliser **Computer Use** : voir l’interface de l’ordinateur et contrôler des applications — ouvrir des programmes, travailler avec des fenêtres, des fichiers et des paramètres
@@ -804,7 +813,7 @@ Comparons des plans de départ raisonnables :
 > *Les conditions et les prix sont indiqués pour septembre 2026.*  
 > *Ils peuvent varier selon le pays, les taxes et le mode de paiement.*
 
-> [!CAUTION] 
+> [!CAUTION]
 > **Il y a aussi un point essentiel :**  
 > Un agent IA peut encore se tromper ou prendre une mauvaise décision.  
 > Vous devrez donc surveiller le processus et vérifier le résultat final, surtout pour les tâches importantes ou complexes.
@@ -834,59 +843,53 @@ Dans le chat de l’agent IA, demandez-lui de faire l’une des actions suivante
 ## À propos des types de modèles et de la consommation des limites
 Vous pouvez ignorer cette section le premier jour. Elle explique pourquoi les agents consomment rapidement les limites et comment éviter de les gaspiller.
 
-> [!TIP]  
-> C’est une partie assez difficile ; nous vous conseillons de la lire dans trois jours, lorsque vous serez un peu plus habitué aux agents IA.
-
 > [!TIP]
+> C’est une partie assez difficile ; nous vous conseillons de la lire dans trois jours, lorsque vous serez un peu plus habitué aux agents IA.
 > Au début, les réglages de modèle que nous avons choisis vous suffiront.
 
-<details>
-<summary>Ouvrez cette section pour la lire dans trois jours</summary>
-<br>
-
-L’une des premières choses que remarquent les utilisateurs d’agents IA, c’est la vitesse à laquelle la limite quotidienne ou le solde du compte diminue.  
-Voyons pourquoi cela se produit et comment choisir les modèles pour ne pas dépenser tout votre budget en quelques demandes.
-
-### Pourquoi les agents consomment-ils autant de tokens ?
-
-Quand vous parlez avec un chatbot classique, vous envoyez une question et recevez une réponse. Avec les agents IA, le fonctionnement est différent :
-
-1. **Cycles autonomes :** Pour exécuter une seule instruction, l’agent effectue des dizaines d’actions cachées : il ouvre un site, lit du code, lance des tests, voit une erreur, réessaie et vérifie le résultat.
-2. **Contexte de projet qui grandit :** À chaque étape, l’agent analyse tout l’historique de la conversation et vos fichiers. Les réseaux neuronaux modernes savent mettre en cache les données répétées, ce qui réduit fortement le coût, mais à chaque nouvelle action la quantité d’information traitée continue d’augmenter. Et si l’agent modifie constamment du code ou des fichiers, le cache est mis à jour et les ressources sont consommées de nouveau.
-
----
-
-### Choisir un modèle : des tâches simples aux tâches complexes
-
-Dans les applications d’agents IA, vous verrez des modèles allant de légers et rapides à très puissants. Les noms varient selon les entreprises, mais le principe général est similaire : plus le modèle est puissant, mieux il gère les tâches complexes et plus vite il consomme les limites.
-
-* 🟢 **Modèles légers et de base**
-  * **Pour quoi faire :** tâches quotidiennes, modification de petits documents, petites corrections de code, génération de recettes ou de tableaux simples.
-  * **Avantages :** rapides, économes en limites et moins coûteux.
-  * **Verdict :** le choix par défaut idéal pour 80 % des tâches.
-
-* 🔴 **Modèles phares et de recherche**
-  * **Pour quoi faire :** décisions d’architecture, débogage complexe de grands projets, erreurs difficiles à comprendre, recherches multi-agents.
-  * **Avantages :** raisonnement plus profond et très grande précision dans les contextes confus.
-  * **Inconvénients :** peuvent consommer les limites beaucoup plus vite.
-
----
-
-### Profondeur de réflexion (Model / Reasoning Effort)
-
-En plus du modèle lui-même, les paramètres des agents peuvent inclure **Reasoning / Thinking Effort**, c’est-à-dire le niveau d’effort consacré à la planification :
-
-* **Low / Light (bas) :** L’agent passe très peu de temps à réfléchir avant d’agir et commence presque immédiatement. Convient aux tâches simples et isolées, comme corriger une faute ou renommer un fichier.
-* **Medium (moyen) :** Le meilleur équilibre pour la plupart des tâches quotidiennes.
-* **High / Extra High / Max (élevé) :** L’agent réfléchit plus longtemps avant la première action. La réponse et le plan peuvent être meilleurs, mais les limites seront consommées plus vite. À utiliser seulement si la tâche est vraiment complexe ou si le coût d’une erreur est élevé.
-
-> [!NOTE]  
+> [!IMPORTANT]
+> ### Lisez cette section dans trois jours
+>
+> L’une des premières choses que remarquent les utilisateurs d’agents IA, c’est la vitesse à laquelle la limite quotidienne ou le solde du compte diminue.  
+> Voyons pourquoi cela se produit et comment choisir les modèles pour ne pas dépenser tout votre budget en quelques demandes.
+>
+> ### Pourquoi les agents consomment-ils autant de tokens ?
+>
+> Quand vous parlez avec un chatbot classique, vous envoyez une question et recevez une réponse. Avec les agents IA, le fonctionnement est différent :
+>
+> 1. **Cycles autonomes :** Pour exécuter une seule instruction, l’agent effectue des dizaines d’actions cachées : il ouvre un site, lit du code, lance des tests, voit une erreur, réessaie et vérifie le résultat.
+> 2. **Contexte de projet qui grandit :** À chaque étape, l’agent analyse tout l’historique de la conversation et vos fichiers. Les réseaux neuronaux modernes savent mettre en cache les données répétées, ce qui réduit fortement le coût, mais à chaque nouvelle action la quantité d’information traitée continue d’augmenter. Et si l’agent modifie constamment du code ou des fichiers, le cache est mis à jour et les ressources sont consommées de nouveau.
+>
+> ---
+>
+> ### Choisir un modèle : des tâches simples aux tâches complexes
+>
+> Dans les applications d’agents IA, vous verrez des modèles allant de légers et rapides à très puissants. Les noms varient selon les entreprises, mais le principe général est similaire : plus le modèle est puissant, mieux il gère les tâches complexes et plus vite il consomme les limites.
+>
+> * 🟢 **Modèles légers et de base**
+>   * **Pour quoi faire :** tâches quotidiennes, modification de petits documents, petites corrections de code, génération de recettes ou de tableaux simples.
+>   * **Avantages :** rapides, économes en limites et moins coûteux.
+>   * **Verdict :** le choix par défaut idéal pour 80 % des tâches.
+>
+> * 🔴 **Modèles phares et de recherche**
+>   * **Pour quoi faire :** décisions d’architecture, débogage complexe de grands projets, erreurs difficiles à comprendre, recherches multi-agents.
+>   * **Avantages :** raisonnement plus profond et très grande précision dans les contextes confus.
+>   * **Inconvénients :** peuvent consommer les limites beaucoup plus vite.
+>
+> ---
+>
+> ### Profondeur de réflexion (Model / Reasoning Effort)
+>
+> En plus du modèle lui-même, les paramètres des agents peuvent inclure **Reasoning / Thinking Effort**, c’est-à-dire le niveau d’effort consacré à la planification :
+>
+> * **Low / Light (bas) :** L’agent passe très peu de temps à réfléchir avant d’agir et commence presque immédiatement. Convient aux tâches simples et isolées, comme corriger une faute ou renommer un fichier.
+> * **Medium (moyen) :** Le meilleur équilibre pour la plupart des tâches quotidiennes.
+> * **High / Extra High / Max (élevé) :** L’agent réfléchit plus longtemps avant la première action. La réponse et le plan peuvent être meilleurs, mais les limites seront consommées plus vite. À utiliser seulement si la tâche est vraiment complexe ou si le coût d’une erreur est élevé.
+>
 > **Règle d’or :**  
 > Commencez toujours avec un modèle de base et un effort de raisonnement moyen.  
 > Passez à la puissance maximale uniquement si l’agent est bloqué ou si la tâche nécessite une analyse approfondie.
-
-</details>
-
+>
 ## En résumé
 Les véritables agents IA ne sont pas simplement une nouvelle mise à jour des chatbots, mais une nouvelle classe d’outils.  
 En passant du simple texte à de vraies actions dans votre système, ils prennent en charge de nombreuses tâches qui demandaient auparavant des heures de travail manuel.  
@@ -894,20 +897,28 @@ Oui, ils nécessitent un abonnement payant et ne peuvent pas encore remplacer co
 Mais la liberté qu’ils offrent déjà face à la routine peut largement justifier le coût et le temps passé à vérifier le résultat.  
 Confiez à un agent une première tâche quotidienne, et vous comprendrez le principal avantage des agents IA : gagner du temps.
 
-> [!TIP]  
+> [!TIP]
 > *P.S. À propos de notre projet :*  
 > Même si ce guide a été rédigé dans le cadre de notre projet de développement VPN, ne vous précipitez pas vers des tâches complexes dès le premier jour avec les agents IA.  
 > Nous vous recommandons de consacrer le mois à venir à apprendre avec des tâches simples, sûres et quotidiennes, puis d’augmenter progressivement la difficulté.  
 > Vous construirez ainsi un modèle mental clair du fonctionnement des agents, et le développement VPN futur sera beaucoup plus simple, efficace et intéressant !
 
-</details>
 
 ---
 
-<details>
-    <summary> <img src="icons/ar.svg" style="vertical-align: middle; width: 1.2em;"> العربية (Arabic)</summary>
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
 
-# كيف تبدأ استخدام وكلاء الذكاء الاصطناعي
+**█  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █**
+
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
+
+---
+
+<a id="arabic"></a>
+
+# العربية
+
+## كيف تبدأ استخدام وكلاء الذكاء الاصطناعي
 تخيّل أن لديك، بدلاً من روبوت محادثة عادي لا يفعل سوى تقديم نصائح نصية، متدرباً رقمياً حقيقياً.  
 يمكنه فتح المواقع بنفسه، وإنشاء ملفات على جهازك، وكتابة البرامج، وتنفيذ الكثير من الأعمال الروتينية نيابةً عنك.  
 هل يبدو هذا مثل الخيال العلمي؟ في الحقيقة، هذه الأدوات موجودة بالفعل.  
@@ -927,7 +938,7 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 - [**Gemini For Desktop**](https://gemini.google/desktop/)
 - [**Claude Desktop**](https://claude.com/download)
 
-> [!NOTE]  
+> [!NOTE]
 > عملياً، تستطيع هذه التطبيقات تعديل المستندات وتنفيذ بعض المهام البسيطة على جهازك.  
 > لكنها لا تصلح لأتمتة البرمجة.
 
@@ -940,9 +951,9 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 | Claude | [**Claude Code**](https://claude.com/product/claude-code) |
 | Gemini | [**Google Antigravity**](https://antigravity.google/) |
 
-> [!NOTE]  
+> [!NOTE]
 > **ماذا يستطيع وكلاء الذكاء الاصطناعي الحقيقيون أن يفعلوا؟**  
-يستطيع وكلاء الذكاء الاصطناعي الحقيقيون:
+> يستطيع وكلاء الذكاء الاصطناعي الحقيقيون:
 > - الاتصال عبر SSH وتنفيذ إجراءات على خادم Linux
 > - استخدام **Browser Use**: رؤية صفحة المتصفح والعمل معها تقريباً مثل الإنسان — فتح المواقع، الضغط على الأزرار، إدخال النص، ملء النماذج والبحث عن المعلومات
 > - استخدام **Computer Use**: رؤية واجهة الكمبيوتر والتحكم في التطبيقات — فتح البرامج، والعمل مع النوافذ والملفات والإعدادات
@@ -982,7 +993,7 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 > *الشروط والأسعار مذكورة حسب سبتمبر 2026.*  
 > *قد تختلف حسب البلد والضرائب وطريقة الدفع.*
 
-> [!CAUTION] 
+> [!CAUTION]
 > **هناك أيضاً نقطة مهمة جداً:**  
 > قد يخطئ وكيل الذكاء الاصطناعي أو يتخذ قراراً غير صحيح.  
 > لذلك ستحتاج إلى مراقبة العملية والتحقق من النتيجة النهائية، خصوصاً في المهام المهمة أو المعقدة.
@@ -1012,59 +1023,53 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 ## عن أنواع النماذج واستهلاك الحدود
 يمكنك تجاوز هذا القسم في اليوم الأول. يشرح لماذا يستهلك الوكلاء الحدود بسرعة وكيف لا تهدرها.
 
-> [!TIP]  
-> هذا القسم صعب قليلاً، وننصحك بقراءته بعد ثلاثة أيام، عندما تعتاد قليلاً على وكلاء الذكاء الاصطناعي.
-
 > [!TIP]
+> هذا القسم صعب قليلاً، وننصحك بقراءته بعد ثلاثة أيام، عندما تعتاد قليلاً على وكلاء الذكاء الاصطناعي.
 > في البداية، ستكون إعدادات النموذج التي اخترناها كافية لك.
 
-<details>
-<summary>افتح هذا القسم لقراءته بعد ثلاثة أيام</summary>
-<br>
-
-من أول الأشياء التي يلاحظها مستخدمو وكلاء الذكاء الاصطناعي سرعة اختفاء الحد اليومي أو رصيد الحساب.  
-لنفهم لماذا يحدث ذلك وكيف تختار النماذج بشكل صحيح حتى لا تستهلك ميزانيتك كلها في طلبين فقط.
-
-### لماذا يستهلك الوكلاء هذا العدد الكبير من الرموز؟
-
-عندما تتحدث مع روبوت محادثة عادي، ترسل سؤالاً واحداً وتتلقى إجابة واحدة. أما مع وكلاء الذكاء الاصطناعي فالأمر مختلف:
-
-1. **دورات مستقلة:** لتنفيذ أمر واحد، يقوم الوكيل بعشرات الإجراءات غير المرئية: يفتح موقعاً، يقرأ الكود، يشغل الاختبارات، يرى الخطأ، يحاول مرة أخرى ويتحقق من النتيجة.
-2. **سياق المشروع المتزايد:** في كل خطوة، يحلل الوكيل تاريخ الحوار كاملاً وملفاتك. تستطيع الشبكات العصبية الحديثة تخزين البيانات المتكررة مؤقتاً، وهذا يقلل التكلفة كثيراً، لكن مع كل إجراء جديد تزداد كمية المعلومات المعالجة. وإذا كان الوكيل يغير الكود أو الملفات باستمرار، يتم تحديث الذاكرة المؤقتة وتُستهلك الموارد مرة أخرى.
-
----
-
-### اختيار النموذج: من المهام البسيطة إلى المعقدة
-
-في تطبيقات وكلاء الذكاء الاصطناعي سترى نماذج من الخفيفة والسريعة إلى القوية جداً. تختلف الأسماء بين الشركات، لكن المبدأ العام متشابه: كلما كان النموذج أقوى، تعامل مع المهام المعقدة بشكل أفضل واستهلك الحدود بسرعة أكبر.
-
-* 🟢 **النماذج الخفيفة والأساسية**
-  * **مناسبة لـ:** المهام اليومية، تعديل المستندات الصغيرة، تعديلات بسيطة في الكود، إنشاء وصفات أو جداول بسيطة.
-  * **المزايا:** سريعة، توفر الحدود، وتكلفتها أقل.
-  * **الخلاصة:** الخيار الافتراضي المثالي لـ 80٪ من المهام.
-
-* 🔴 **النماذج الرائدة والبحثية**
-  * **مناسبة لـ:** قرارات البنية، تصحيح الأخطاء المعقدة في مشاريع كبيرة، الأخطاء غير الواضحة، الأبحاث متعددة الوكلاء.
-  * **المزايا:** تفكير أعمق ودقة عالية في السياقات المربكة.
-  * **العيوب:** قد تستهلك الحدود بسرعة أكبر بكثير.
-
----
-
-### عمق التفكير (Model / Reasoning Effort)
-
-بالإضافة إلى اختيار النموذج نفسه، قد تحتوي إعدادات الوكلاء على **Reasoning / Thinking Effort**، أي مقدار الجهد الذي يخصصه الوكيل لتخطيط المهمة:
-
-* **Low / Light (منخفض):** لا يقضي الوكيل وقتاً تقريباً في التفكير المسبق ويبدأ العمل فوراً. مناسب للمهام البسيطة والمنفصلة، مثل تصحيح خطأ مطبعي أو إعادة تسمية ملف.
-* **Medium (متوسط):** أفضل توازن لمعظم المهام اليومية.
-* **High / Extra High / Max (مرتفع):** يفكر الوكيل مدة أطول قبل أول إجراء. قد تكون الإجابة والخطة أفضل، لكن الحدود ستُستهلك أسرع. استخدمه فقط عندما تكون المهمة معقدة فعلاً أو عندما تكون تكلفة الخطأ عالية.
-
-> [!NOTE]  
+> [!IMPORTANT]
+> ### اقرأ هذا القسم بعد ثلاثة أيام
+>
+> من أول الأشياء التي يلاحظها مستخدمو وكلاء الذكاء الاصطناعي سرعة اختفاء الحد اليومي أو رصيد الحساب.  
+> لنفهم لماذا يحدث ذلك وكيف تختار النماذج بشكل صحيح حتى لا تستهلك ميزانيتك كلها في طلبين فقط.
+>
+> ### لماذا يستهلك الوكلاء هذا العدد الكبير من الرموز؟
+>
+> عندما تتحدث مع روبوت محادثة عادي، ترسل سؤالاً واحداً وتتلقى إجابة واحدة. أما مع وكلاء الذكاء الاصطناعي فالأمر مختلف:
+>
+> 1. **دورات مستقلة:** لتنفيذ أمر واحد، يقوم الوكيل بعشرات الإجراءات غير المرئية: يفتح موقعاً، يقرأ الكود، يشغل الاختبارات، يرى الخطأ، يحاول مرة أخرى ويتحقق من النتيجة.
+> 2. **سياق المشروع المتزايد:** في كل خطوة، يحلل الوكيل تاريخ الحوار كاملاً وملفاتك. تستطيع الشبكات العصبية الحديثة تخزين البيانات المتكررة مؤقتاً، وهذا يقلل التكلفة كثيراً، لكن مع كل إجراء جديد تزداد كمية المعلومات المعالجة. وإذا كان الوكيل يغير الكود أو الملفات باستمرار، يتم تحديث الذاكرة المؤقتة وتُستهلك الموارد مرة أخرى.
+>
+> ---
+>
+> ### اختيار النموذج: من المهام البسيطة إلى المعقدة
+>
+> في تطبيقات وكلاء الذكاء الاصطناعي سترى نماذج من الخفيفة والسريعة إلى القوية جداً. تختلف الأسماء بين الشركات، لكن المبدأ العام متشابه: كلما كان النموذج أقوى، تعامل مع المهام المعقدة بشكل أفضل واستهلك الحدود بسرعة أكبر.
+>
+> * 🟢 **النماذج الخفيفة والأساسية**
+>   * **مناسبة لـ:** المهام اليومية، تعديل المستندات الصغيرة، تعديلات بسيطة في الكود، إنشاء وصفات أو جداول بسيطة.
+>   * **المزايا:** سريعة، توفر الحدود، وتكلفتها أقل.
+>   * **الخلاصة:** الخيار الافتراضي المثالي لـ 80٪ من المهام.
+>
+> * 🔴 **النماذج الرائدة والبحثية**
+>   * **مناسبة لـ:** قرارات البنية، تصحيح الأخطاء المعقدة في مشاريع كبيرة، الأخطاء غير الواضحة، الأبحاث متعددة الوكلاء.
+>   * **المزايا:** تفكير أعمق ودقة عالية في السياقات المربكة.
+>   * **العيوب:** قد تستهلك الحدود بسرعة أكبر بكثير.
+>
+> ---
+>
+> ### عمق التفكير (Model / Reasoning Effort)
+>
+> بالإضافة إلى اختيار النموذج نفسه، قد تحتوي إعدادات الوكلاء على **Reasoning / Thinking Effort**، أي مقدار الجهد الذي يخصصه الوكيل لتخطيط المهمة:
+>
+> * **Low / Light (منخفض):** لا يقضي الوكيل وقتاً تقريباً في التفكير المسبق ويبدأ العمل فوراً. مناسب للمهام البسيطة والمنفصلة، مثل تصحيح خطأ مطبعي أو إعادة تسمية ملف.
+> * **Medium (متوسط):** أفضل توازن لمعظم المهام اليومية.
+> * **High / Extra High / Max (مرتفع):** يفكر الوكيل مدة أطول قبل أول إجراء. قد تكون الإجابة والخطة أفضل، لكن الحدود ستُستهلك أسرع. استخدمه فقط عندما تكون المهمة معقدة فعلاً أو عندما تكون تكلفة الخطأ عالية.
+>
 > **القاعدة الذهبية:**  
 > ابدأ دائماً بنموذج أساسي وبمستوى تفكير متوسط.  
 > انتقل إلى أقصى قوة فقط إذا تعثر الوكيل أو كانت المهمة تتطلب تحليلاً عميقاً.
-
-</details>
-
+>
 ## الخلاصة
 وكلاء الذكاء الاصطناعي الحقيقيون ليسوا مجرد تحديث آخر لروبوتات المحادثة، بل فئة جديدة تماماً من الأدوات.  
 هم ينتقلون من النص البسيط إلى أفعال حقيقية داخل نظامك، ويتولون كثيراً مما كان يتطلب سابقاً ساعات من العمل اليدوي.  
@@ -1072,20 +1077,28 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 لكن مقدار التحرر من الروتين الذي يقدمونه بالفعل يمكن أن يبرر التكلفة والوقت اللازم لمراجعة النتيجة.  
 أعطِ الوكيل أول مهمة يومية، وستفهم الميزة الأهم لوكلاء الذكاء الاصطناعي: توفير الوقت.
 
-> [!TIP]  
+> [!TIP]
 > *ملاحظة حول مشروعنا:*  
 > رغم أن هذا الدليل أُعد ضمن مشروعنا لتطوير VPN، لا تتعجل في تنفيذ مهام معقدة في اليوم الأول من التعرف على وكلاء الذكاء الاصطناعي.  
 > ننصحك خلال الشهر القادم بتعلم استخدام الوكلاء عبر مهام يومية بسيطة وآمنة، ثم رفع مستوى الصعوبة تدريجياً.  
 > بهذه الطريقة ستبني نموذجاً ذهنياً واضحاً لطريقة عمل الوكلاء، وسيصبح تطوير VPN لاحقاً أسهل وأكثر فعالية وإثارة للاهتمام!
 
-</details>
 
 ---
 
-<details>
-    <summary> <img src="icons/ru.svg" style="vertical-align: middle; width: 1.2em;"> Русский (Russian)</summary>
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
 
-# Как начать использовать ИИ-агентов
+**█  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █**
+
+**ANOTHER LANGUAGE ANOTHER LANGUAGE ANOTHER LANGUAGE**
+
+---
+
+<a id="russian"></a>
+
+# Русский
+
+## Как начать использовать ИИ-агентов
 Представьте, что вместо обычного чат-бота, который умеет только давать текстовые советы, у вас появился настоящий цифровой стажёр.  
 Он может самостоятельно заходить на сайты, создавать файлы у вас на компьютере, писать программы и выполнять за вас всю рутинную работу. 
 Звучит как фантастика? На самом деле эти инструменты уже здесь.  
@@ -1105,7 +1118,7 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 - [**Gemini For Desktop**](https://gemini.google/desktop/)
 - [**Claude Desktop**](https://claude.com/download)
 
-> [!NOTE]  
+> [!NOTE]
 > По сути, это приложения, которые могут редактировать документы и делать другие простые вещи на вашем компьютере.  
 > Но они не подходят для автоматизации программирования.
 
@@ -1118,9 +1131,9 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 | Claude | [**Claude Code**](https://claude.com/product/claude-code) |
 | Gemini | [**Google Antigravity**](https://antigravity.google/) |
 
-> [!NOTE]  
+> [!NOTE]
 > **Что же умеют настоящие ИИ-агенты?**  
-Настоящие ИИ-агенты умеют:
+> Настоящие ИИ-агенты умеют:
 > - подключаться по SSH и выполнять действия на сервере Linux
 > - использовать **Browser Use**: видеть страницу в браузере и работать с ней почти как человек — открывать сайты, нажимать кнопки, вводить текст, заполнять формы и искать информацию
 > - использовать **Computer Use**: видеть интерфейс компьютера и управлять приложениями — открывать программы, работать с окнами, файлами и настройками
@@ -1160,7 +1173,7 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 > *Условия и цены указаны на сентябрь 2026 года.*  
 > *Они могут отличаться в зависимости от страны, налогов и способа оплаты.*
 
-> [!CAUTION] 
+> [!CAUTION]
 > **Также критически важен ещё один момент:**  
 > ИИ-агент всё же может совершать ошибки или принимать неправильные решения.  
 > Поэтому вам нужно будет контролировать процесс и проверять итоговый результат, особенно в важных или сложных задачах.
@@ -1191,59 +1204,53 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 ## О видах моделей и трате лимитов
 Этот раздел можно пропустить в первый день. Он объясняет, почему агенты быстро расходуют лимиты и как не тратить их зря.
 
-> [!TIP]  
-> Это довольно тяжёлый материал, советуем его прочитать через три дня, когда вы немного привыкнете к ИИ-агентам.
-
 > [!TIP]
+> Это довольно тяжёлый материал, советуем его прочитать через три дня, когда вы немного привыкнете к ИИ-агентам.
 > На первое время вам будет достаточно тех настроек модели, которые мы установили 
 
-<details>
-<summary>Раскройте, чтобы прочитать это через три дня</summary>
-<br>
-
-Одна из первых вещей, с которой сталкиваются пользователи ИИ-агентов — это скорость, с которой тает дневной лимит или баланс на аккаунте.  
-Давайте разберёмся, почему так происходит и как правильно выбирать модели, чтобы не «сжечь» весь бюджет за пару запросов.
-
-### Почему агенты расходуют так много токенов?
-
-Когда вы общаетесь с обычным чат-ботом, вы отправляете один вопрос и получаете один ответ. С ИИ-агентами всё устроено иначе:
-
-1. **Автономные циклы:** Чтобы выполнить одну вашу команду, агент делает десятки скрытых действий — заходит на сайт, читает код, запускает тесты, видит ошибку, пробует снова и перепроверяет результат.
-2. **Растущий контекст проекта:** На каждом шаге агент анализирует всю историю диалога и ваши файлы. И хотя современные нейросети умеют кэшировать повторяющиеся данные (что существенно снижает стоимость), с каждым новым действием объём передаваемой информации всё равно растёт. А если агент постоянно меняет код или файлы — кэш обновляется, и ресурсы расходуются с новой силой.
-
----
-
-### Выбор модели: от простых задач к сложным
-
-В приложениях ИИ-агентов вы встретите выбор моделей — от лёгких и быстрых до максимально умных. Названия у разных компаний отличаются, но общий принцип похожий: чем мощнее модель, тем лучше она справляется со сложными задачами и тем быстрее расходует лимиты.
-
-* 🟢 **Лёгкие и базовые модели**
-  * **Для чего:** повседневные бытовые задачи, редактирование небольших документов, небольшие правки кода, генерация рецептов или простых таблиц.
-  * **Плюсы:** работают быстро, сберегают лимиты и стоят дешевле всего.
-  * **Вердикт:** идеальный выбор по умолчанию для 80% задач.
-
-* 🔴 **Флагманские и исследовательские модели**
-  * **Для чего:** архитектурные решения, сложная отладка крупного кода, разбор невнятных ошибок, мультиагентные исследования.
-  * **Плюсы:** глубокие рассуждения и высочайшая точность в запутанных контекстах.
-  * **Минусы:** могут заметно быстрее расходовать лимиты.
-
----
-
-### Глубина размышлений (Model / Reasoning Effort)
-
-Помимо выбора самой модели, в настройках агентов можно регулировать параметр **Reasoning / Thinking Effort** — «уровень усердия» при планировании задачи:
-
-* **Low / Light (Низкий):** Агент почти не тратит время на предварительное «обдумывание» и сразу приступает к делу. Подходит для банальных и изолированных задач (поправить опечатку, переименовать файл).
-* **Medium (Средний):** Оптимальный баланс для большинства повседневных задач.
-* **High / Extra High / Max (Высокий):** Агент дольше обдумывает задачу перед первым действием. Ответ и план могут стать качественнее, но лимиты будут расходоваться быстрее. Используйте только тогда, когда задача действительно сложная или цена ошибки слишком высока.
-
-> [!NOTE]  
+> [!IMPORTANT]
+> ### Прочитайте этот раздел через три дня
+>
+> Одна из первых вещей, с которой сталкиваются пользователи ИИ-агентов — это скорость, с которой тает дневной лимит или баланс на аккаунте.  
+> Давайте разберёмся, почему так происходит и как правильно выбирать модели, чтобы не «сжечь» весь бюджет за пару запросов.
+>
+> ### Почему агенты расходуют так много токенов?
+>
+> Когда вы общаетесь с обычным чат-ботом, вы отправляете один вопрос и получаете один ответ. С ИИ-агентами всё устроено иначе:
+>
+> 1. **Автономные циклы:** Чтобы выполнить одну вашу команду, агент делает десятки скрытых действий — заходит на сайт, читает код, запускает тесты, видит ошибку, пробует снова и перепроверяет результат.
+> 2. **Растущий контекст проекта:** На каждом шаге агент анализирует всю историю диалога и ваши файлы. И хотя современные нейросети умеют кэшировать повторяющиеся данные (что существенно снижает стоимость), с каждым новым действием объём передаваемой информации всё равно растёт. А если агент постоянно меняет код или файлы — кэш обновляется, и ресурсы расходуются с новой силой.
+>
+> ---
+>
+> ### Выбор модели: от простых задач к сложным
+>
+> В приложениях ИИ-агентов вы встретите выбор моделей — от лёгких и быстрых до максимально умных. Названия у разных компаний отличаются, но общий принцип похожий: чем мощнее модель, тем лучше она справляется со сложными задачами и тем быстрее расходует лимиты.
+>
+> * 🟢 **Лёгкие и базовые модели**
+>   * **Для чего:** повседневные бытовые задачи, редактирование небольших документов, небольшие правки кода, генерация рецептов или простых таблиц.
+>   * **Плюсы:** работают быстро, сберегают лимиты и стоят дешевле всего.
+>   * **Вердикт:** идеальный выбор по умолчанию для 80% задач.
+>
+> * 🔴 **Флагманские и исследовательские модели**
+>   * **Для чего:** архитектурные решения, сложная отладка крупного кода, разбор невнятных ошибок, мультиагентные исследования.
+>   * **Плюсы:** глубокие рассуждения и высочайшая точность в запутанных контекстах.
+>   * **Минусы:** могут заметно быстрее расходовать лимиты.
+>
+> ---
+>
+> ### Глубина размышлений (Model / Reasoning Effort)
+>
+> Помимо выбора самой модели, в настройках агентов можно регулировать параметр **Reasoning / Thinking Effort** — «уровень усердия» при планировании задачи:
+>
+> * **Low / Light (Низкий):** Агент почти не тратит время на предварительное «обдумывание» и сразу приступает к делу. Подходит для банальных и изолированных задач (поправить опечатку, переименовать файл).
+> * **Medium (Средний):** Оптимальный баланс для большинства повседневных задач.
+> * **High / Extra High / Max (Высокий):** Агент дольше обдумывает задачу перед первым действием. Ответ и план могут стать качественнее, но лимиты будут расходоваться быстрее. Используйте только тогда, когда задача действительно сложная или цена ошибки слишком высока.
+>
 > **Золотое правило:**  
 > Всегда начинайте с базовой модели и среднего уровня размышлений (Medium).  
 > Переключайтесь на максимальную мощность только в том случае, если агент «застрял» или задача требует глубокого анализа.
-
-</details>
-
+>
 ## Подводя итоги
 Настоящие ИИ-агенты — это не просто очередное обновление чат-ботов, а принципиально новый класс инструментов.  
 Переходя от простого текста к реальным действиям в вашей системе, они берут на себя всё то, на что раньше уходили часы ручной работы.  
@@ -1251,13 +1258,11 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 Но тот уровень свободы от рутины, который они дают уже сейчас, с лихвой окупает и затраты, и время на проверку.  
 Попробуйте дать агенту первую бытовую задачу — и вы поймёте главное преимущество ИИ-агентов — экономию времени.
 
-> [!TIP]  
+> [!TIP]
 > *P.S. По поводу нашего проекта:*  
 > Хотя эта инструкция составлялась в рамках нашего проекта по VPN-разработке, не спешите браться за сложные задачи в первый же день знакомства с ИИ-агентами. 
 > Мы рекомендуем ближайший месяц осваивать агентов на простых и безопасных бытовых задачах, постепенно повышая планку сложности.  
 > Так вы построите понятную ментальную модель работы с агентами, и в дальнейшем разработка VPN пройдёт намного проще, эффективнее и интереснее!
-
-</details>
 
 ---
 
