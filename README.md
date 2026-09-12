@@ -103,9 +103,11 @@ Let’s compare basic paid plans:
 1. Install one of the three suggested apps on your computer.
 2. Add funds or activate a paid plan if needed.
 3. Set the model options so you do not use up all your limits at once:
-    - **Codex**: choose **Terra** and **Reasoning / Thinking Effort: Medium**.
-    - **Claude Code**: choose **Sonnet** and **Thinking / Effort: Medium**.
-    - **Google Antigravity**: choose **Gemini 3.8 Flash Medium**.
+    | Программа | Model | Reasoning / Thinking Effort |
+    |:---:|:---:|:---:|
+    | **Codex** | **Terra (gpt-5.6-terra)** | **Medium** |
+    | **Claude Code** | **Claude Sonnet 5** | **Medium** |
+    | **Google Antigravity** | **Gemini 3.8 Flash** | **Medium** |
 
 At this stage, you do not need to understand what these settings mean; we will explain them later.
 
@@ -286,9 +288,11 @@ Give an agent its first everyday task, and you will understand the main advantag
 1. 在电脑上安装上面三个应用中的一个。
 2. 如有需要，充值或启用付费套餐。
 3. 设置模型模式，避免一次性用完所有额度：
-    - **Codex**：选择 **Terra** 和 **Reasoning / Thinking Effort: Medium**。
-    - **Claude Code**：选择 **Sonnet** 和 **Thinking / Effort: Medium**。
-    - **Google Antigravity**：选择 **Gemini 3.8 Flash Medium**。
+    | Программа | Model | Reasoning / Thinking Effort |
+    |:---:|:---:|:---:|
+    | **Codex** | **Terra (gpt-5.6-terra)** | **Medium** |
+    | **Claude Code** | **Claude Sonnet 5** | **Medium** |
+    | **Google Antigravity** | **Gemini 3.8 Flash** | **Medium** |
 
 现阶段你不需要理解这些参数的含义，我们稍后会解释。
 
@@ -469,9 +473,11 @@ AI 智能体用户最先注意到的一件事，就是每日额度或账户余�
 1. सुझाए गए तीन ऐप्स में से एक को कंप्यूटर पर इंस्टॉल करें।
 2. ज़रूरत हो तो बैलेंस जोड़ें या पेड प्लान चालू करें।
 3. मॉडल मोड सेट करें, ताकि सारी लिमिट तुरंत खर्च न हो:
-    - **Codex**: **Terra** और **Reasoning / Thinking Effort: Medium** चुनें।
-    - **Claude Code**: **Sonnet** और **Thinking / Effort: Medium** चुनें।
-    - **Google Antigravity**: **Gemini 3.8 Flash Medium** चुनें।
+    | Программа | Model | Reasoning / Thinking Effort |
+    |:---:|:---:|:---:|
+    | **Codex** | **Terra (gpt-5.6-terra)** | **Medium** |
+    | **Claude Code** | **Claude Sonnet 5** | **Medium** |
+    | **Google Antigravity** | **Gemini 3.8 Flash** | **Medium** |
 
 इस चरण पर इन सेटिंग्स का मतलब समझना ज़रूरी नहीं है; हम इन्हें बाद में समझाएँगे।
 
@@ -652,9 +658,11 @@ Comparemos planes iniciales razonables:
 1. Instala en tu computadora una de las tres aplicaciones sugeridas.
 2. Si es necesario, añade saldo o activa un plan de pago.
 3. Configura los modos del modelo para no gastar todos los límites de una vez:
-    - **Codex**: elige **Terra** y **Reasoning / Thinking Effort: Medium**.
-    - **Claude Code**: elige **Sonnet** y **Thinking / Effort: Medium**.
-    - **Google Antigravity**: elige **Gemini 3.8 Flash Medium**.
+    | Программа | Model | Reasoning / Thinking Effort |
+    |:---:|:---:|:---:|
+    | **Codex** | **Terra (gpt-5.6-terra)** | **Medium** |
+    | **Claude Code** | **Claude Sonnet 5** | **Medium** |
+    | **Google Antigravity** | **Gemini 3.8 Flash** | **Medium** |
 
 En esta etapa no necesitas entender qué significan estos parámetros; los explicaremos más adelante.
 
@@ -835,9 +843,11 @@ Comparons des plans de départ raisonnables :
 1. Installez sur votre ordinateur l’une des trois applications proposées.
 2. Si nécessaire, ajoutez du solde ou activez un plan payant.
 3. Réglez les modes du modèle afin de ne pas consommer toutes vos limites d’un coup :
-    - **Codex** : choisissez **Terra** et **Reasoning / Thinking Effort: Medium**.
-    - **Claude Code** : choisissez **Sonnet** et **Thinking / Effort: Medium**.
-    - **Google Antigravity** : choisissez **Gemini 3.8 Flash Medium**.
+    | Программа | Model | Reasoning / Thinking Effort |
+    |:---:|:---:|:---:|
+    | **Codex** | **Terra (gpt-5.6-terra)** | **Medium** |
+    | **Claude Code** | **Claude Sonnet 5** | **Medium** |
+    | **Google Antigravity** | **Gemini 3.8 Flash** | **Medium** |
 
 À ce stade, vous n’avez pas besoin de comprendre ces paramètres ; nous les expliquerons plus tard.
 
@@ -1018,9 +1028,11 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 1. ثبّت أحد التطبيقات الثلاثة المقترحة على جهازك.
 2. أضف رصيداً أو فعّل خطة مدفوعة إذا لزم الأمر.
 3. اضبط أوضاع النموذج حتى لا تستهلك كل حدودك دفعة واحدة:
-    - **Codex**: اختر **Terra** و **Reasoning / Thinking Effort: Medium**.
-    - **Claude Code**: اختر **Sonnet** و **Thinking / Effort: Medium**.
-    - **Google Antigravity**: اختر **Gemini 3.8 Flash Medium**.
+    | Программа | Model | Reasoning / Thinking Effort |
+    |:---:|:---:|:---:|
+    | **Codex** | **Terra (gpt-5.6-terra)** | **Medium** |
+    | **Claude Code** | **Claude Sonnet 5** | **Medium** |
+    | **Google Antigravity** | **Gemini 3.8 Flash** | **Medium** |
 
 في هذه المرحلة لا تحتاج إلى فهم معنى هذه الإعدادات؛ سنشرحها لاحقاً.
 
@@ -1201,9 +1213,11 @@ Confiez à un agent une première tâche quotidienne, et vous comprendrez le pri
 1. Поставьте одно из трёх предложенных приложений на компьютер. 
 2. При необходимости пополните баланс.
 3. Установите режимы модели, чтобы не израсходовать весь баланс сразу:
-    - **Codex**: выберите **Terra** и **Reasoning / Thinking Effort: Medium**.
-    - **Claude Code**: выберите **Sonnet** и **Thinking / Effort: Medium**.
-    - **Google Antigravity**: выберите **Gemini 3.8 Flash Medium**.
+    | Программа | Model | Reasoning / Thinking Effort |
+    |:---:|:---:|:---:|
+    | **Codex** | **Terra (gpt-5.6-terra)** | **Medium** |
+    | **Claude Code** | **Claude Sonnet 5** | **Medium** |
+    | **Google Antigravity** | **Gemini 3.8 Flash** | **Medium** |
 
 На данном этапе необязательно понимать значения этих параметров, их мы объясним позже.
 
